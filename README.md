@@ -1,0 +1,4 @@
+LifeGameEditor
+==============
+
+Life-game editor
